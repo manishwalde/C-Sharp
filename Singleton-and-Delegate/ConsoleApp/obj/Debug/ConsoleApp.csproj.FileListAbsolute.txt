@@ -1,0 +1,7 @@
+D:\ManishW\Project\NetCore\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\ManishW\Project\NetCore\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\ManishW\Project\NetCore\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\ManishW\Project\NetCore\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+D:\ManishW\Project\NetCore\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\ManishW\Project\NetCore\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\ManishW\Project\NetCore\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
